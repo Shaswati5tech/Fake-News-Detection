@@ -83,7 +83,7 @@ The model was evaluated on unseen test data and achieved strong generalization p
 Clone the repository:
 
 ```bash
-git clone <your-repository-link>
+git clone https://github.com/Shaswati5tech/Fake-News-Detection
 ```
 
 Install dependencies:
@@ -107,11 +107,3 @@ streamlit run app.py
 - Fact Checking System
 - News Source Verification
 - Explainable AI Predictions
-
----
-
-## 👩‍💻 Author
-
-Shaswati Swain
-
-B.Tech CSE | Machine Learning Enthusiast
