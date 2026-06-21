@@ -3,8 +3,9 @@
 An NLP-based Machine Learning project that classifies news articles as **Fake** or **Real** using TF-IDF Vectorization and Logistic Regression.
 
 
-🌐 Live Demo:
-https://fake-news-detection-d2dcmyimv8cpk2dg3ztg5h.streamlit.app/
+## 🌐 Live Demo
+
+[Try the App](https://fake-news-detection-d2dcmyimv8cpk2dg3ztg5h.streamlit.app/)
 ---
 
 ## 🚀 Features
