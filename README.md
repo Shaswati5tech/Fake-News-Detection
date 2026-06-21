@@ -70,11 +70,11 @@ The model was evaluated on unseen test data and achieved strong generalization p
 
 ### Real News Prediction
 
-![Real News](screenshots/real_news_prediction.png)
+![Real News](screenshots/real_news_pred.png)
 
 ### Fake News Prediction
 
-![Fake News](screenshots/fake_news_prediction.png)
+![Fake News](screenshots/fake_news_pred.png)
 
 ---
 
