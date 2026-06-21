@@ -2,6 +2,9 @@
 
 An NLP-based Machine Learning project that classifies news articles as **Fake** or **Real** using TF-IDF Vectorization and Logistic Regression.
 
+
+🌐 Live Demo:
+https://fake-news-detection-d2dcmyimv8cpk2dg3ztg5h.streamlit.app/
 ---
 
 ## 🚀 Features
@@ -58,7 +61,7 @@ The model was trained on a dataset containing:
 |----------|----------|
 | Test Accuracy | 98.4% |
 
-The model was evaluated on unseen test data and achieved strong generalization performance with minimal overfitting.
+The model achieved 98.4% accuracy on the test dataset. Training and testing accuracies were very close, indicating good generalization and minimal overfitting.
 
 ---
 
