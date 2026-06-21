@@ -1,16 +1,28 @@
-# Fake News Detection
+# Fake News Detection System
 
-A machine learning-based fake news detection system built using NLP techniques and TF-IDF vectorization.
+A Machine Learning project that classifies news articles as Fake or Real using NLP techniques.
 
 ## Features
-- Text preprocessing
-- TF-IDF feature extraction
-- Multiple ML models
-- Real-time prediction using Streamlit
+
+- TF-IDF Vectorization
+- Logistic Regression
+- Streamlit Web App
+- 98.4% Accuracy
+
+## Dataset
+
+Fake and Real News Dataset
 
 ## Tech Stack
+
 - Python
-- Scikit-learn
 - Pandas
-- NLTK
+- Scikit-Learn
 - Streamlit
+- NLP
+
+## How to Run
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
